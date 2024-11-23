@@ -1,0 +1,2 @@
+i="ashish"
+print(i)
